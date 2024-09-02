@@ -1,0 +1,161 @@
+<!--
+Author: WebThemez
+Author URL: http://webthemez.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="free-educational-responsive-web-template-webEdu">
+    <meta name="author" content="webThemez.com">
+    <title>Home Schooling Primagama</title>
+    <link rel="favicon" href="assets/images/favicon.png">
+    <link rel="stylesheet" media="screen" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen"> 
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel='stylesheet' id='camera-css'  href='assets/css/camera.css' type='text/css' media='all'>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+	<script src="assets/js/html5shiv.js"></script>
+	<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+    <!-- Fixed navbar -->
+   <div class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <!-- Button for smallest screens -->
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                <a class="navbar-brand" href="./" style="color:purple">
+                <marquee>   <p>Home Schooling Primagama</p></marquee></a> 
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav pull-right mainNav">
+                    <li class="c1 "><a href="./"><span class="fa fa-home"></span> Home</a></li>
+                    <li class="c2 active"><a href="pengumuman.php"><span class="fa fa-users"></span> Pengumuman</a></li>
+                    <li class="c3"><a href="pendaftaran.php"><span class="fa fa-pencil"></span> Pendaftaran</a></li>
+                    <li class="c3"><a href="about.html"><span class="fa fa-book"></span> Tentang</a></li>
+                
+                    <li class="c7"><a href="admin"><span class="fa fa-lock"></span> Login</a></li>
+
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+    <!-- /.navbar -->
+
+ 	<header id="head" class="secondary">
+            <div class="container">
+                    <h1>Tentang Kami</h1>
+                    <p>Les Private Home Schooling Pada Primagama</p>
+                </div>
+    </header>
+
+
+    <!-- container -->
+    <section class="container">
+        <div class="row">
+            <!-- main content -->
+            <section class="col-sm-8 maincontent">
+                <h3>Tentang Kami</h3>
+                <p>
+                    <img src="assets/images/about.jpg" alt="" class="img-rounded pull-right" width="300">
+                    Primagama adalah usaha jasa pendidikan luar sekolah yang bergerak dibidang bimbingan belajar, didirikan tahun 1982, tepatnya pada tanggal 10 Maret 1982 di Yogyakarta. Program Bimbingan Belajar Primagama memiliki pasar sangat luas (siswa 3,4,5,6 SD – 7,8,9 SMP, dan 10,11,12 SMA IPA/IPS) dengan target pendidikan adalah meningkatkan prestasi akademik di sekolah, Ujian Akhir Sekolah, Ujian Nasional , dan Sukses Ujian Masuk Perguruan Tinggi Negeri/Favorit serta sekolah kedinasan (bagi SMA/SMK).
+                </p>
+                
+                <h3>Sejarah</h3>
+                <strong>1982</strong>
+                <p>PRIMAGAMA berdiri, tepatnya pada tanggal 10 Maret 1982 di Yogyakarta. Kelas pertama Primagama ini dimulai dengan hanya memiliki 2 orang siswa.</p>
+                <strong>1996</strong>
+                <p>Perkembangan PRIMAGAMA mulai terlihat dengan bertambahnya cabang menjadi 132 buah.</p>
+                <strong>2000</strong>
+                <p>Pada tahun ini, cabang yang dimiliki PRIMAGAMA kembali meningkat menjadi 157 buah.</p>
+                <strong>2001</strong>
+                <p>Tingginya kepedulian para pengusaha pada bidang pendidikan membuat PRIMAGAMA memulai sistem waralabanya pada 2001. Dengan sistem ini jumlah cabang meningkat menjadi 260 buah.</p>
+                <strong>2003</strong>
+                <p>Peningkatan jumlah cabang terlihat signifikan setelah terbentuknya sistem waralaba. Pada tahun 2003, jumlah cabang bertambah 320 cabang. Meningkat 300% dibanding periode sebelumnya.</p>
+                <strong>2005</strong>
+                <p>Memiliki 450 cabang di seluruh Indonesia.</p>
+                <strong>2007</strong>
+                <p>Jumlah cabang kembali meningkat menjadi 638 cabang dan mulailah dibentuk master franchise.</p>
+                <strong>2009</strong>
+                <p>Memiliki 723 cabang yang tersebar di seluruh Indonesia.</p>
+                <strong>2010</strong>
+                <p>Pada tahun ini PRIMAGAMA memiliki cabang sebanyak 756 di seluruh Indonesia.</p>
+                <strong>2015</strong>
+                <p>Pada tahun 2015, PRIMAGAMA memiliki manajemen baru bernama PT Prima Edu Pendamping Belajar dan memperkecil jumlah cabangnya menjadi 587 buah.</p>
+                <strong>2017</strong>
+                <p>o) Jumlah cabang: 461 tersebar di seluruh propinsi di Indonesia<br>
+                   o) Jumlah siswa aktif 90.000 setahun<br>
+                   o) Jumlah Dosen 8000</p>
+
+            </section>
+            <!-- /main -->
+
+            
+
+        </div>
+    </section>
+    
+  <footer id="footer">
+ 
+        <div class="container">
+   <div class="row">
+  <div class="footerbottom">
+
+    <div class="col-md-12 col-sm-7"> 
+                <div class="footerwidget"> 
+                         <h4>Hubungi Kami</h4>
+            <div class="contact-info"> 
+            <i class="fa fa-facebook"></i> Warih Prasetyono<br>
+            <i class="fa fa-phone"></i>+8111111111 <br>
+             <i class="fa fa-envelope-o"></i> homeschooling_Primagama@gmail.com
+              </div> 
+                </div><!-- end widget --> 
+    </div>
+  </div>
+</div>
+            <div class="social text-center">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-flickr"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+            </div>
+
+            <div class="clear"></div>
+            <!--CLEAR FLOATS-->
+        </div>
+        <div class="footer2">
+            <div class="container">
+                <div class="row">
+
+                
+
+                    <div class="col-md-12 panel">
+                        <div class="panel-body">
+                            <p class="text-right">
+                                Copyright &copy; 2018. Warih Prasetyono
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /row of panels -->
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="assets/js/custom.js"></script>
+</body>
+</html>
